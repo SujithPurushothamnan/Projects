@@ -1,5 +1,4 @@
 import 'package:amazon_ui/bottom_bar.dart';
-import 'package:amazon_ui/view/screen/hotstar_home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 

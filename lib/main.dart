@@ -1,7 +1,5 @@
 // ignore: unused_import
 import 'package:amazon_ui/view/screen/hotstar_home_page.dart';
-import 'package:amazon_ui/view/screen/hotstar_profile.dart';
-import 'package:amazon_ui/view/screen/otp_screen.dart';
 import 'package:amazon_ui/view/screen/splash_screen.dart';
 
 import 'package:flutter/material.dart';

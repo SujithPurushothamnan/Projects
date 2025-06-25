@@ -1,7 +1,6 @@
 import 'package:amazon_ui/bottom_bar.dart';
 // ignore: unused_import
 import 'package:amazon_ui/view/screen/hotstar_login.dart';
-import 'package:amazon_ui/view/screen/otp_screen.dart';
 import 'package:amazon_ui/view/screen/sign_in_page.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
